@@ -125,7 +125,6 @@ class Jue extends BackendDeveloper
 ### 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ### 🌱 Currently Learning
 
@@ -177,7 +176,7 @@ class Jue extends BackendDeveloper
 <td width="50%" valign="top">
 
 ### 📱 BarongTV — Android Streaming App
-> *"The Netflix I built from scratch because why not."*
+> *"Somew kind of Netflix that me and my team built from scratch because why not."*
 
 A fully functional Android streaming application — think Netflix or Prime Video but built by a 19-year-old from Palembang. Users can browse, stream, and discover films through a clean mobile UI.
 
@@ -190,7 +189,7 @@ A fully functional Android streaming application — think Netflix or Prime Vide
 - 📲 Native Android app with clean content browsing
 - 🎬 Film streaming UI similar to major OTT platforms
 - 🔗 Powered by a custom-built PHP REST API (see below)
-- 🏗️ Built fully solo from concept to deployment
+- 🏗️ Built with team from concept to deployment
 
 </td>
 <td width="50%" valign="top">
@@ -271,40 +270,6 @@ A dedicated REST API built from the ground up in PHP — purpose-built to serve 
 <br/><br/>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jue&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&area_color=1a1a2e" />
-
-</div>
-
----
-
-<!-- ============================================================ -->
-<!--                    CONTRIBUTION SNAKE                       -->
-<!-- ============================================================ -->
-
-<h2 align="center">🐍 Contribution Graph</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jue/Jue/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jue/Jue/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Jue/Jue/output/github-snake-dark.svg" />
-</picture>
-
-> *Every green square is a commit. Every commit is a decision. Make them count.*
-
-</div>
-
----
-
-<!-- ============================================================ -->
-<!--                    TROPHIES                                  -->
-<!-- ============================================================ -->
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jue&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -440,29 +405,4 @@ at 2am when it's already in production.
 
 </div>
 
-<!-- ============================================================ -->
-<!--                  SNAKE WORKFLOW SETUP                       -->
-<!--   Add this to .github/workflows/snake.yml in your repo:     -->
-<!--                                                             -->
-<!--   name: Generate Snake                                      -->
-<!--   on:                                                       -->
-<!--     schedule:                                               -->
-<!--       - cron: "0 */12 * * *"                               -->
-<!--     workflow_dispatch:                                      -->
-<!--   jobs:                                                     -->
-<!--     generate:                                               -->
-<!--       runs-on: ubuntu-latest                               -->
-<!--       steps:                                               -->
-<!--         - uses: Platane/snk/svg-only@v3                   -->
-<!--           with:                                            -->
-<!--             github_user_token: ${{ secrets.GITHUB_TOKEN }}-->
-<!--             outputs: |                                     -->
-<!--               dist/github-snake.svg                        -->
-<!--               dist/github-snake-dark.svg?palette=github-dark -->
-<!--         - uses: crazy-max/ghaction-github-pages@v3         -->
-<!--           with:                                            -->
-<!--             target_branch: output                          -->
-<!--             build_dir: dist                                -->
-<!--           env:                                             -->
-<!--             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}      -->
-<!-- ============================================================ -->
+
