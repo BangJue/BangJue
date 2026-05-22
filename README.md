@@ -31,53 +31,32 @@
 <!-- ============================================================ -->
 <!--                    ABOUT ME SECTION                         -->
 <!-- ============================================================ -->
-
 <img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Jue&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12&count_private=true&include_all_commits=true" />
 
-### `whoami`
+### About Me
 
-```php
-<?php
+| | |
+|---|---|
+| 👤 **Name** | Muhammad Iqbal — *Jue* |
+| 📍 **Location** | Palembang, South Sumatra 🇮🇩 |
+| 🎓 **Uni** | Politeknik Negeri Sriwijaya |
+| 📚 **Major** | D4 Manajemen Informatika — Batch 2024 |
+| 💼 **Role** | Backend Developer |
+| 🟢 **Status** | Open to Work |
 
-class Jue extends BackendDeveloper
-{
-    public string $name        = "Muhammad Iqbal";
-    public string $alias       = "Jue";
-    public int    $age         = 19;
-    public string $location    = "Palembang, South Sumatra 🇮🇩";
-    public string $uni         = "Politeknik Negeri Sriwijaya";
-    public string $major       = "D4 Manajemen Informatika";
-    public string $batch       = "2024";
-    public string $role        = "Backend Developer";
-    public bool   $openToWork  = true;
+**Languages I speak:**
+🇮🇩 Indonesian (native) · 🇬🇧 English (conversational) · 🇯🇵 Japanese (survival mode)
 
-    public array $languages = [
-        "Indonesian" => "native",
-        "English"    => "conversational (lots of online VC exp)",
-        "Japanese"   => "survival mode only",
-    ];
+**Beyond the code:**
+🎬 Cinema — especially Epic Westerns &nbsp;·&nbsp; 🎮 Gaming — Fear & Hunger survivor &nbsp;·&nbsp; 🔧 Building things nobody asked for
 
-    public array $hobbies = [
-        "Cinema 🎬 — especially Epic Westerns",
-        "Gaming 🎮 — Fear & Hunger survivor",
-        "Building things nobody asked for",
-    ];
+**Currently learning:** React, Inertia.js, Caching & Performance Optimization
 
-    public string $currentlyLearning = "React, Inertia.js, Caching & Performance Optimization";
-    public string $goal              = "Win a competition. Ship something people actually use.";
-    public string $motto             = "20xx PHP is going to be dead — and it's not happening.";
+**Goal:** Win a competition. Ship something people actually use.
 
-    public function contact(): array
-    {
-        return [
-            "email"    => "muhammad.iqbal.31d@gmail.com",
-            "linkedin" => "linkedin.com/in/muhammad-iqbal-632a5a316",
-            "ig"       => "@bang.jue",
-            "discord"  => "dr.jue",
-        ];
-    }
-}
-```
+> *"20xx PHP is going to be dead — and it's not happening."*
+
+📧 muhammad.iqbal.31d@gmail.com &nbsp;·&nbsp; 💼 [linkedin.com/in/muhammad-iqbal-632a5a316](https://linkedin.com/in/muhammad-iqbal-632a5a316) &nbsp;·&nbsp; 📸 @bang.jue &nbsp;·&nbsp; 💬 dr.jue
 
 <br clear="right"/>
 
@@ -86,54 +65,46 @@ class Jue extends BackendDeveloper
 <!-- ============================================================ -->
 <!--                     LANGUAGES & TOOLS                       -->
 <!-- ============================================================ -->
-
 <h2 align="center">⚙️ Tech Arsenal</h2>
 
-<div align="center">
+<h4>🧠 Languages</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" width="48" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" width="48" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="SQL/MySQL" width="48" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" width="48" />
+</p>
 
-### 🧠 Languages
+<h4>🏗️ Frameworks & Libraries</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" width="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="48" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="48" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" width="48" />
+</p>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<h4>🛠️ Tools & Environment</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="48" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="48" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" width="48" />
+</p>
 
-### 🏗️ Frameworks & Libraries
+<h4>🗄️ Database</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="48" />
+</p>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-
-### 🛠️ Tools & Environment
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![RPG Maker](https://img.shields.io/badge/RPG_Maker-8B0000?style=for-the-badge&logo=unity&logoColor=white)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🌱 Currently Learning
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis_(Caching)-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Performance](https://img.shields.io/badge/Performance_Optimization-00C853?style=for-the-badge&logo=speedtest&logoColor=white)
-
-</div>
+<h4>🌱 Currently Learning</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=react" title="React" width="48" />
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis (Caching)" width="48" />
+</p>
 
 ---
 
