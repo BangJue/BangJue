@@ -92,9 +92,9 @@
   <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" />
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="48" />
-  <img src="https://laragon.org/images/logo.svg" title="Laragon" width="48" />
+  <img src="https://cdn.simpleicons.org/laragon" title="Laragon" width="48" />
   <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" title="XAMPP" width="48" />
-  <img src="https://www.phpmyadmin.net/static/images/logo-og.png" title="phpMyAdmin" width="48" />
+  <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" title="phpMyAdmin" width="48" />
 </p>
 
 <h4>🗄️ Database</h4>
