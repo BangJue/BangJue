@@ -125,11 +125,11 @@
 | **JavaScript** | ██████░░░░ 60% | Async, DOM, the backend parts — learning the rest |
 | **SQL / MySQL** | ██████░░░░ 60% | Joins, queries, normalization — comfortable |
 | **HTML / CSS** | ████████░░ 80% | Can make things look decent without crying |
-| **Tailwind CSS** | ███████░░░ 70% | Utility-first and never going back |
-| **Python** | ████░░░░░░ 40% | Knows enough to be dangerous |
-| **React.js** | ███░░░░░░░ 30% | In progress — ask again in 3 months |
-| **Java (Swing)** | ████░░░░░░ 40% | Survived it. Made a Blackjack game to prove it. |
-| **Android Dev** | ████░░░░░░ 40% | Built BarongTV. Still standing. |
+| **Tailwind CSS** | ██████░░░░ 60% | Utility-first and never going back |
+| **Python** | ███░░░░░░░ 30% | Knows enough to be dangerous |
+| **React.js** | ██░░░░░░░░ 20% | In progress — ask again in 3 months |
+| **Java (Swing)** | ███░░░░░░░ 30% | Survived it. Made a Blackjack game to prove it. |
+| **Android Dev** | ███░░░░░░░ 30% | Built BarongTV. Still standing. |
 
 </div>
 
