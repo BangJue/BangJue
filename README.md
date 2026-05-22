@@ -69,12 +69,11 @@
 
 <h4>🧠 Languages</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" width="48" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" />
-  <img src="https://skillicons.dev/icons?i=python" title="Python" width="48" />
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="48" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="SQL/MySQL" width="48" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" width="48" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" width="48" />
   <img src="https://skillicons.dev/icons?i=java" title="Java" width="48" />
 </p>
 
@@ -89,10 +88,13 @@
 <h4>🛠️ Tools & Environment</h4>
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="48" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" width="48" />
   <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" />
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="48" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" width="48" />
+  <img src="https://laragon.org/images/logo.svg" title="Laragon" width="48" />
+  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" title="XAMPP" width="48" />
+  <img src="https://www.phpmyadmin.net/static/images/logo-og.png" title="phpMyAdmin" width="48" />
 </p>
 
 <h4>🗄️ Database</h4>
@@ -230,9 +232,6 @@ A dedicated REST API built from the ground up in PHP — purpose-built to serve 
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jue&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jue&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12&langs_count=8" />
 
 <br/><br/>
 
