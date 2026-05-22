@@ -323,22 +323,6 @@ A dedicated REST API built from the ground up in PHP — purpose-built to serve 
 ---
 
 <!-- ============================================================ -->
-<!--                    CURRENTLY PLAYING                         -->
-<!-- ============================================================ -->
-
-<h2 align="center">🎵 Spotify — Now Playing</h2>
-
-<div align="center">
-
-[![Spotify](https://novatorem-jue.vercel.app/api/spotify)](https://open.spotify.com)
-
-> *If it's not playing, I'm probably deep in a Laravel rabbit hole.*
-
-</div>
-
----
-
-<!-- ============================================================ -->
 <!--                    DEVELOPER MANIFESTO                      -->
 <!-- ============================================================ -->
 
