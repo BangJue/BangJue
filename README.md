@@ -292,33 +292,6 @@ A dedicated REST API built from the ground up in PHP — purpose-built to serve 
 
 ---
 
-<!-- ============================================================ -->
-<!--                    DEVELOPER MANIFESTO                      -->
-<!-- ============================================================ -->
-
-<h2 align="center">📜 The Way I Work</h2>
-
-<div align="center">
-
-```
-I don't write code to impress anyone.
-I write it to solve something.
-
-PHP gets mocked every year.
-Every year PHP is still here.
-So am I.
-
-A good API is invisible — users just experience the result.
-Bad middleware is where dreams go to 500.
-
-The best code is the code that doesn't surprise you
-at 2am when it's already in production.
-
-— Jue, Backend Dev, Palembang, still caffeinated.
-```
-
-</div>
-
 ---
 
 <!-- ============================================================ -->
