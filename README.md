@@ -31,7 +31,6 @@
 <!-- ============================================================ -->
 <!--                    ABOUT ME SECTION                         -->
 <!-- ============================================================ -->
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Jue&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12&count_private=true&include_all_commits=true" />
 
 ### About Me
 
