@@ -254,10 +254,6 @@ A dedicated REST API built from the ground up in PHP — purpose-built to serve 
 [![Email](https://img.shields.io/badge/Email-muhammad.iqbal.31d@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.iqbal.31d@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-dr.jue-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
-<br/>
-
-> *I don't bite. Unless you say PHP is dying.*
-
 </div>
 
 ---
