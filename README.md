@@ -221,34 +221,6 @@ A dedicated REST API built from the ground up in PHP — purpose-built to serve 
 ---
 
 <!-- ============================================================ -->
-<!--                    CURRENT STATUS                            -->
-<!-- ============================================================ -->
-
-<h2 align="center">🎯 Current Status</h2>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                       STATUS DASHBOARD                          │
-├─────────────────────────────────────────────────────────────────┤
-│  🎓  POLSRI D4 Manajemen Informatika — Batch 2024               │
-│  🏗️  Backend Developer — PHP / Laravel main stack               │
-│  📚  Currently studying: React.js + Inertia.js + Caching        │
-│  🎯  Goal: Win a competition. Build something real.             │
-│  📍  Palembang, South Sumatra, Indonesia                        │
-│  🎬  Last watched: The Good, The Bad and The Ugly               │
-│  🎮  Last played: Fear and Hunger (yes, really)                 │
-│  🍕  Current fuel: Pizza                                        │
-│  💬  Available on Discord: dr.jue                               │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<!-- ============================================================ -->
 <!--                    LANGUAGE SPOKEN                           -->
 <!-- ============================================================ -->
 
