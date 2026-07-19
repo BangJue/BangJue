@@ -221,27 +221,6 @@ A dedicated REST API built from the ground up in PHP — purpose-built to serve 
 ---
 
 <!-- ============================================================ -->
-<!--                    LANGUAGE SPOKEN                           -->
-<!-- ============================================================ -->
-
-<h2 align="center">🌏 Languages I Speak</h2>
-
-<div align="center">
-
-| Language | Level | Notes |
-|---|---|---|
-| 🇮🇩 **Indonesian** | `████████████ Native` | Born and raised, what else |
-| 🇬🇧 **English** | `████████░░ Conversational` | No formal cert, but lots of online VC hours with people abroad |
-| 🇯🇵 **Japanese** | `███░░░░░░░ Survival` | Can hold a *very* basic conversation. Can't read it. Won't pretend. |
-| 💻 **PHP** | `█████████░ Fluent` | This counts. I said what I said. |
-
-</div>
-
----
-
----
-
-<!-- ============================================================ -->
 <!--                    CONNECT SECTION                          -->
 <!-- ============================================================ -->
 
